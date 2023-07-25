@@ -49,7 +49,7 @@ SHOW_COMP_DLG = "SGTK_COMPATIBILITY_DIALOG_SHOWN"
 # this is the absolute minimum SubstanceDesigner version for the engine to work. Actually
 # the one the engine was developed originally under, so change it at your
 # own risk if needed.
-MIN_COMPATIBILITY_VERSION = 10.1
+MIN_COMPATIBILITY_VERSION = 12.4
 
 # this is a place to put our persistent variables between different packages
 # opened
